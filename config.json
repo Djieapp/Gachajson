@@ -317,13 +317,15 @@
 			"wallpaper_name": "Girl 35",
 			"wallpaper_thumbnail": "",
 			"wallpaper_url": "https://raw.githubusercontent.com/Djieapp/Gachagirl/cc079fdb0e28145cd6daacdef4404b9b31b7b0c0/Gachaanime34.png"
-		}, {
+		}, 
+		{
 			"wallpaper_id": 35,
 			"category_name": "Girl",
 			"wallpaper_name": "Girl 35",
 			"wallpaper_thumbnail": "",
 			"wallpaper_url": "https://raw.githubusercontent.com/Djieapp/Gachagirl/cc079fdb0e28145cd6daacdef4404b9b31b7b0c0/Gachaanime35.png"
-		}, {
+		}, 
+		{
 			"wallpaper_id": 36,
 			"category_name": "Girl",
 			"wallpaper_name": "Girl 36",
@@ -506,7 +508,7 @@
 			"wallpaper_url": "https://raw.githubusercontent.com/Djieapp/Gachacute/30b6df3f7b93a4fb2565dfdb2ea9a199091854da/Gachaanime61.png"
 		}
 	],
-	"more_apps": [
+  "more_apps": [
 
-	]
+  ]
 }
